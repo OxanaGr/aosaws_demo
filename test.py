@@ -1,1 +1,0 @@
-print('demo_aos')
